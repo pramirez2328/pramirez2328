@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pramirez2328
 - 👀 I’m interested in front-end and back-end development
-- 🌱 thechnology lover...
+- 🌱 technology lover...
 - 💞️ I’m looking to collaborate on react, javascript, and ruby on rails
 - 📫 How to reach me ... prlara2000@gmail.com
 
